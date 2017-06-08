@@ -8,7 +8,7 @@
 #define	DEFAULT_CHECK_SIZE 			5000000
 
 static char const * CheckFileList[]={
-	"Patch_d2.mpq", "D2Data.mpq", "D2Exp.mpq", "d2server.dll", "D2Win.dll",
+	"Patch_D2.mpq", "D2Data.mpq", "D2Exp.mpq", "d2server.dll", "D2Win.dll",
 	"D2Game.dll", "D2Client.dll", "D2Common.dll", "D2Net.dll", "Fog.dll", 
 	"Storm.dll", "D2Lang.dll", "D2Cmp.dll" , NULL
 };
